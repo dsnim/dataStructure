@@ -19,3 +19,15 @@ dataStructure/dataStructure.sln
 dataStructure/dataStructure.vcxproj
 dataStructure/dataStructure.vcxproj.filters
 dataStructure/dataStructure.vcxproj.user
+dataStructure/Debug/01pointer.obj
+dataStructure/Debug/02pointer.obj
+dataStructure/Debug/03pointer.obj
+*.obj
+*.exe
+*.recipe
+*.ilk
+*.log
+*.pdb
+*.tlog
+dataStructure/Debug/dataStructure.vcxproj.FileListAbsolute.txt
+dataStructure/Debug/vc142.idb
